@@ -49,3 +49,10 @@ Here is a script for generate `*.g.dart`
 
 ## How to run:
 Execute `build_runner.sh` or `flutter pub get && flutter packages pub run build_runner build --delete-conflicting-outputs;` in terminal.
+
+
+## iOS Screen Recoding:
+
+https://user-images.githubusercontent.com/10140027/161731804-da59775d-d02b-47a8-b657-75a22a37e9b1.mp4
+
+
